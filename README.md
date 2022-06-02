@@ -1,8 +1,8 @@
 # supercollider-patches
 Supercollider files for synthesizer patches
 
-Synthdefs contains synth files
+*Synthdefs* contains synth files
 
-Effects contains effects
+*Effects* contains effects
 
-Compositions contains composition files
+*Compositions* contains composition files
